@@ -1,1 +1,1 @@
-#### A repository containing work related to ML and DL
+#### A repository containing machine learning algorithm implementation and projects
