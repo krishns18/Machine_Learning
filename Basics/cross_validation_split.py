@@ -20,7 +20,7 @@ def cross_validation_split(data,folds=5):
   return splits
 
 
-seed(1)
+seed(861)
 dataset = [[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]]
 folds = cross_validation_split(dataset, 5)
 print(folds)
