@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+# importing numpy
 import numpy as np
 
 def sigmoid(x):
